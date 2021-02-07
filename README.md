@@ -4,8 +4,7 @@ Brainstorming in process
 
 Ideas for pages: 
 
-Home page
-
+- Home page
 - Information page
 - Message board
 - Resources page
