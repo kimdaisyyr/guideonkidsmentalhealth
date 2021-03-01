@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body 
+h1   {color: #1a616e; text-align: center;}
+h2   {color: #308796;}
+p    {color: #484f4f;}
+p2   {color: #484f4f;} 
+</style>
+</head>
+
+<body>
+
+<h1>Our Sources</h1>
+<p2>This page lists our recources for gathering information for this website. They are catagorized by their content and can be helpful if you intend to do research into mental health or if you need counseling or a hotline number to call.</p2>
+<br>
+<br>
+
+<h2>Focusing on Awareness and Education</h2>
+<p>These three links mainly focused on spreading awareness
+<br>and informing the readers about mental health.</p>
+<a href= "https://nami.org/Support-Education?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbTRWYX15jPLlPA6HQJW3ZjL0Syd5GbVdNLSjgcVXKStQBB6pHcRqsgaAiLKEALw_wcB" target= "_blank">National Alliance on Mental Illness (NAMI) </a>
+<br>
+<br>
+<a href= "https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577" target= "_blank">Mental illness in Children: Know the Signs </a>
+<br>
+<br>
+<a href= "http://www.acmh-mi.org/get-information/childrens-mental-health-101/common-diagnosis/" target= "_blank">Common Mental Health Diagnosis in Children and Youth </a>
+<br>
+<br>
+
+<h2>Access to Counselors and Hotlines</h2>
+<p>These website will give you access to hotline numbers 
+<br>and couselors if needed.</p>
+<a href= "https://www.counseling.org/knowledge-center/mental-health-resources" target= "_blank">List of Counselors for Specific Mental Health Support </a>
+<br>
+<br>
+<a href= "https://www.thetrevorproject.org/?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbTONhl2MNvR7IMMA5TWEdq1Bnhqk-EqLqKvDN9nlrl-W9fZ44LozqgaAiz4EALw_wcB" target= "_blank">Trevor Project (Mental Health Awareness Campaign) </a>
+<br>
+<br>
+
+<h2>Informative and Access to Hotlines</h2>
+<p>These sites are both informative and have access to hotline 
+<br>numbers.</p>
+<a href= "https://www.mentalhealth.gov/" target= "_blank">US Dept. of Health and Human Services </a>
+<br>
+<br>
+<a href= "https://www.mentalhealthfirstaid.org/mental-health-resources/" target= "_blank">Mental Health First Aid USA Resources </a>
+<br>
+<br>
+<a href= "https://www.cdc.gov/childrensmentalhealth/symptoms.html" target= "_blank">CDC Info : Children's Mental Disorders </a>
+
+</body>
+</html>
 
