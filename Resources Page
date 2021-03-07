@@ -3,7 +3,14 @@
 <head>
 <style>
 body 
-h1   {color: #1a616e; text-align: center;}
+
+#myHeader  {
+  background-color:#e6fcfc;
+  color: #1a616e;
+  text-align: center;
+  padding: 40px
+}
+
 h2   {color: #308796;}
 p    {color: #484f4f;}
 p2   {color: #484f4f;} 
@@ -12,7 +19,7 @@ p2   {color: #484f4f;}
 
 <body>
 
-<h1>Our Sources</h1>
+<h1 id="myHeader">Our Sources</h1>
 <p2>This page lists our recources for gathering information for this website. They are catagorized by their content and can be helpful if you intend to do research into mental health or if you need counseling or a hotline number to call.</p2>
 <br>
 <br>
@@ -53,6 +60,8 @@ p2   {color: #484f4f;}
 <br>
 <br>
 <a href= "https://www.cdc.gov/childrensmentalhealth/symptoms.html" target= "_blank">CDC Info : Children's Mental Disorders </a>
+<br>
+<br>
 
 </body>
 </html>
