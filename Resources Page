@@ -13,7 +13,9 @@ body
 
 h2   {color: #308796;}
 p    {color: #484f4f;}
-p2   {color: #484f4f;} 
+p2   {color: #484f4f;
+      padding: 10px}
+
 </style>
 </head>
 
