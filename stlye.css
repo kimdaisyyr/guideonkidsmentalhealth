@@ -24,14 +24,14 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: blue;
+  background-color: #308796;
 }
 
 .active {
   background-color: darkblue;
 }
 
-body{background-color: #308796;
+body{background-color: #80ced6;
 }
 
 </style>
