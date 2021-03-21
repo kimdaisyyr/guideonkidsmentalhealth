@@ -2,19 +2,65 @@
 <html>
 <head>
 <style>
-body 
 
 #myHeader  {
   background-color:#e6fcfc;
   color: #1a616e;
   text-align: center;
-  padding: 40px
+  padding: 30px
 }
 
-h2   {color: #308796;}
-p    {color: #484f4f;}
-p2   {color: #484f4f;
+h2   {color: #e6fcfc;}
+p    {color: black;}
+p2   {color: black;
       padding: 10px}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: powderblue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #308796;
+}
+
+.active {
+  background-color: darkblue;
+}
+
+body{background-color: #80ced6;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#Info">Info</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#rescources">Resources</a></li>
+</ul>
+
+
 
 </style>
 </head>
@@ -67,4 +113,5 @@ p2   {color: #484f4f;
 
 </body>
 </html>
+
 
