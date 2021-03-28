@@ -8,3 +8,4 @@ Ideas for pages:
 - Resources page
 - About us
 
+https://kimdaisyyr.github.io
