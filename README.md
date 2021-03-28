@@ -1,7 +1,5 @@
 # guideonkidsmentalhealth
 
-Brainstorming in process 
-
 Ideas for pages: 
 
 - Home page
